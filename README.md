@@ -171,6 +171,13 @@ DELETE  /api/v1/books/:id
 
 ---
 
+# Project Explanation Video
+
+**Explanation Video:**
+https://drive.google.com/file/d/1Q7lWiPbz8lHKiL6BJLtcQDdSgKrzPFX3/view?usp=sharing
+
+---
+
 ## 10. Ending
 
 > Toh ye mera **Book Store Details API project** tha.
