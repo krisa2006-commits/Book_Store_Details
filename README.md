@@ -1,4 +1,4 @@
-## 🎥 Book Store Project Explanation
+## Book Store Project Explanation
 
 ### 1. Introduction
 
@@ -179,4 +179,4 @@ DELETE  /api/v1/books/:id
 
 > Is project ke through maine CRUD operations implement kiye hain.
 
-> **Thank you.** 🙏
+> **Thank you.**
